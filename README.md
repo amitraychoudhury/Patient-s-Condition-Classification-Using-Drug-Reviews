@@ -1,0 +1,2 @@
+# Patient-s-Condition-Classification-Using-Drug-Reviews
+This is a sample dataset which consists of 161297 drug name, condition reviews and ratings from different patients and our goal is to examine how patients are feeling using the drugs their positive and negative experiences so that we can recommend him a suitable drug. By analyzing , we can understand the drug effectiveness and its side effects. 
